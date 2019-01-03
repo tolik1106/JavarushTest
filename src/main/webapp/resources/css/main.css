@@ -1,0 +1,75 @@
+.dataColl {
+  min-width: 100px;
+  padding: 20px;
+}
+
+.dataFrame {
+  width: 800px;
+}
+
+#searchField{
+    border-width: 5px;
+    margin: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    border-radius: 18px;
+    border-style: double;
+    border-color: red green blue yellow;
+    display: inline-block;
+}
+
+label {
+  width: 150px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dataTable {
+  margin-left: 50px;
+  border-style: groove;
+  border-width: 3px;
+  border-color: blue green;
+}
+
+.countTable {
+  position: absolute;
+  border-style: solid;
+  border-width: 3px;
+  margin: 50px;
+  border-color: green;
+  left: 750px;
+  top: 120px;
+}
+
+#saveForm {
+  padding: 5px;
+}
+
+#pages {
+  padding-left: 50px;
+  padding-top: 30px;
+  font-size: 25px;
+  font-style: oblique;
+  display: inline-block;
+}
+
+#addForm {
+  position: absolute;
+  left: 800px;
+  top: 300px;
+}
+
+#sort {
+    margin-left: 150px;
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
