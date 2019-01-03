@@ -1,3 +1,6 @@
+#compile files
 /target
+
+#Idea files
 /.idea
 *.iml
